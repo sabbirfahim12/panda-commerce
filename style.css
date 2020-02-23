@@ -19,3 +19,32 @@ color:#ff1365;
     border-radius: 8px;
 
 }
+.cat1, .cat2,.cat3{
+    padding:10px 30px;
+    border-radius: 8px;
+}
+.cat1{
+    background-image: linear-gradient(to bottom, #ff1365 0%,#f19dbab0 100%);
+}
+.cat2{
+background-image: linear-gradient(to bottom,orange 0%,rgba(90, 66, 23, 0.596));
+}
+.cat3{
+    background-image: linear-gradient(to bottom,blue,rgb(197, 197, 204));
+}
+.catagoroies h1{
+    color:white;
+}
+.catagoroies img{
+    width:100px;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgrey;
+    border-radius:10px;
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+    border-
+}
